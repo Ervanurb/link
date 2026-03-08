@@ -92,7 +92,7 @@ p {
 .instagram { background: #e1306c; }
 .portfolio { background: #6c63ff; }
 .medium { background: #000000; }
-.kaggle { background: #20beff; }
+.email { background: #20beff; }
 
 .btn:hover {
   transform: translateY(-3px) scale(1.03);
@@ -107,3 +107,4 @@ p {
   }
 
 }
+
